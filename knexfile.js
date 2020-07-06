@@ -29,7 +29,7 @@ module.exports = {
   staging: {
     client: 'postgresql',
     connection: {
-      host: 'powerdev4.cadbhqydfs3i.us-east-2.rds.amazonaws.com',
+      host: 'powerdev3.ck7szasoqs5z.sa-east-1.rds.amazonaws.com',
       // database: 'my_db',
       database: 'bethehero',
       user:     'username',
@@ -47,7 +47,7 @@ module.exports = {
   production: {
     client: 'postgresql',
     connection: {
-      host: 'powerdev4.cadbhqydfs3i.us-east-2.rds.amazonaws.com',
+      host: 'powerdev3.ck7szasoqs5z.sa-east-1.rds.amazonaws.com',
       // database: 'my_db',
       database: 'bethehero',
       user:     'username',
